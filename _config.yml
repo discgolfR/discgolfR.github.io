@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/discgolfR"
+baseurl: ""
 url: "https://discgolfr.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
