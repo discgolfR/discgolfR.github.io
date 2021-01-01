@@ -17,7 +17,7 @@ footer_text: >
   This site is supported by readers. <br> When you make purchases through the affiliate links you help fuel my little hobby. Thank you!
 
 # Blog
-excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
+excerpt: "truncate"                                           # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
 color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
 
@@ -26,8 +26,8 @@ color_image: /assets/img/lineart.png                    # A bit transparent for 
 # For layout customization, go to the "_sass > base" folder, and check "_variables.scss"
 katex: true                                             # Enable if using math markup
 mermaid: true                                           # Enable mermaid-js for sequence and diagrams
-google_analytics:                                       # Tracking ID, e.g. "UA-000000-01"
-cookie_consent: false                                   # To respect the usage of cookies
+google_analytics: "G-6MBFZXZ781"                       # Tracking ID, e.g. "UA-000000-01"
+cookie_consent: true                                   # To respect the usage of cookies
 disqus_shortname:                                       # Your discus shortname for comments
 
 # PAGINATION
