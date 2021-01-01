@@ -24,9 +24,9 @@ layout: default
 
 <!-- Disqus -->
 {% if site.disqus_shortname or site.theme_settings.disqus_shortname %}
-{% include disqus.html %}{% endif %}
+{% include disqus.html %}
+{% endif %}
 
 <!-- Post navigation -->
 {% if site.post_navigation %}
-{% include post_nav.html %}
-{% endif %}
+{% include post_nav.html %}{% endif %}{% endif %}
