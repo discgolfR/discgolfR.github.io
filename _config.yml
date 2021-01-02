@@ -3,18 +3,18 @@ baseurl: ""
 url: "https://discgolfr.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: discgolfR                                 # site's title
+title: Disc Golf Data                                 # site's title
 description: "Data analysis, data science, and visualizations about disc golf using R"      # used by search engines
 avatar: assets/img/dg_sfavicon.png                 # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Disc golf data analysis using R  # Change Blog header text
+header_text: Disc golf data analysis and visualization  # Change Blog header text
 header_feature_image: assets/img/feature-img/dg_basket_header.jpg
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
   <br>
-  This site is supported by readers. <br> When you make purchases through the affiliate links you help fuel my little hobby. Thank you!
+  This site is supported by readers. <br> When you make purchases through the affiliate links I earn a commission and you help fuel my little hobby. <br> Thank you!
 
 # Blog
 excerpt: "truncate"                                           # Or "truncate" (first 250 characters), "false" to disable
