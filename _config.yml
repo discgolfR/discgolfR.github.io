@@ -4,7 +4,8 @@ url: "https://discgolfr.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Disc Golf Data                                 # site's title
-description: "Data analysis, data science, and visualizations about disc golf using R"      # used by search engines
+tagline: "Data analysis, data science, and visualizations about disc golf using R"      # used by search engines
+description: "Data analysis and visualization of all things disc golf"
 avatar: assets/img/dg_sfavicon.png                 # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
