@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Disc Database"
+feature-img: "assets/img/feature-img/yadd.png"
 hide_title: true
 ---
 
