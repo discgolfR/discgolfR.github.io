@@ -3611,7 +3611,7 @@ summary {
 </div>
 
 
-<p>YADD is a simple disc finding tool. It uses data from Infinite Discs rather than manufacturer numbers for greater standardization.</p>
+<p>Yet Another Disc Database (YADD) is a simple disc finding tool. It uses data from Infinite Discs rather than manufacturer numbers for greater standardization.</p>
 <p>See <a href="#detailed-instructions-for-use">below the table for detailed instructions on use</a>.</p>
 <p>To see additional attributes like disc diameter and rim width, please click the <strong>Column Visibility</strong> button.</p>
 <div id="htmlwidget-f84d1bfc37d30bb9097a" style="width:100%;height:auto;" class="datatables html-widget"></div>
