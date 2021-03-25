@@ -4,8 +4,6 @@ title: "Disc Database"
 hide_title: true
 ---
 
-<!DOCTYPE html>
-
 <html>
 
 <head>
@@ -213,12 +211,11 @@ summary {
 
 
 
-<h1 class="title toc-ignore">YADD - Yet Another Disc Database</h1>
 
 </div>
 
 
-<p>YADD is a simple disc finding tool. It uses data from Infinite Discs rather than manufacturer numbers for greater standardization.</p>
+<p>YADD (Yet Another Disc Database) is a simple disc finding tool. It uses data from Infinite Discs rather than manufacturer numbers for greater standardization.</p>
 <p>See <a href="#detailed-instructions-for-use">below the table for detailed instructions on use</a>.</p>
 <p>To see additional attributes like disc diameter and rim width, please click the <strong>Column Visibility</strong> button.</p>
 <div id="htmlwidget-2774e8b8c55aafbc40cd" style="width:100%;height:auto;" class="datatables html-widget"></div>
